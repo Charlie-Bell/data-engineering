@@ -1,0 +1,6 @@
+kafka-python
+pyspark
+numpy
+pandas
+python-dotenv
+s3fs

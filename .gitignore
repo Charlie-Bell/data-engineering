@@ -1,0 +1,10 @@
+venv/
+.env
+
+keys/
+
+*.ipynb
+*.sh
+
+local_consume.py
+local_produce.py
